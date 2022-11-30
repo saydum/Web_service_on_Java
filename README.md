@@ -1,3 +1,7 @@
+Зависимости проекта
+- Jetty
+- Servlet
+- FreeMarket
 ```
 		APP
 	 	 |
