@@ -6,7 +6,7 @@
 		APP
 	 	 |
 		 V
- 	Архитектурно независимый byte code
+Архитектурно независимый byte code
   	  |			|
   	  V			V
 	Linux	  Windows
