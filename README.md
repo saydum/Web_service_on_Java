@@ -9,7 +9,7 @@
 Архитектурно независимый byte code
   	  |			|
   	  V			V
-	Linux	  Windows
+	Linux	             Windows
 ```
 
 Байт-код - это код после компиляции Java компилятором
