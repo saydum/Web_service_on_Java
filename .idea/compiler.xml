@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="web_service" />
+        <module name="ws" />
         <module name="L1.1" />
       </profile>
     </annotationProcessing>

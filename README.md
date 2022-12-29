@@ -1,3 +1,4 @@
+# 1.1 Simple web server
 Зависимости проекта
 - Jetty
 - Servlet
@@ -9,7 +10,7 @@
 Архитектурно независимый byte code
   	  |			|
   	  V			V
-	Linux	             Windows
+	Linux	   Windows
 ```
 
 Байт-код - это код после компиляции Java компилятором
@@ -77,3 +78,6 @@
 	<p> Имя пользователя: ${ userName } </p>
 </body>
 ```
+
+# 2.1 Authorization
+
